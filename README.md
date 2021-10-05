@@ -50,3 +50,5 @@ Output is printed to the console:
 ```
 
 For run testing cases, please use this command: `npm test`
+
+Also you can see the test in [Actions tab](https://github.com/judlup/NBAPlayers/actions) in the project repository.
